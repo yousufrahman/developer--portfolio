@@ -10,13 +10,14 @@ body{
    }
    section{
        display: flex;
+       margin-bottom: 10%;
    }s
    .half-witdth{
        width: 50px;
        padding-left: 5%;
    }
    .halr-width img{
-       width: 100%
+       width: 50%;
    }
 .link-button{
     text-decoration: none;
@@ -30,4 +31,10 @@ body{
 .tot-banner{
     background-image: url(images/top-banner.png)
     background-repeat: no-repeat;
+}
+.dream-big{
+background-image: url(images/dream-bg.png)
+background-repeat: no-repeat;
+background-position: right;
+
 }
